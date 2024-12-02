@@ -1,9 +1,9 @@
-# CLE-Context-Aware-Local-Explanations-for-High-Dimensional-Tabular-Data
+# Data Augmentation for Image Classification using Generative AI
 
 
 ### Create virtual environment
 
-Run the following command inside `CLE/` and install the dependencies from `requirements.txt`.
+Run the following command inside `AGA/` and install the dependencies from `requirements.txt`.
 
     python3 -m venv venv
     source venv/bin/activate
